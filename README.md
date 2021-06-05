@@ -4,3 +4,6 @@ git is local && github is remote (browser).
 
 git pull origin main 
 pull request --> pr
+
+
+git branch -m idj-fresh-one (To make a new branch)
